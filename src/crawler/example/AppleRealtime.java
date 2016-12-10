@@ -20,6 +20,8 @@ import com.google.common.collect.ImmutableSortedMap;
  * 
  * @author Abola Lee
  *
+ *
+ * @author Student Lincoln Tong
  */
 public class AppleRealtime {
 	
